@@ -1,0 +1,18 @@
+{
+  "name": "alpha-scorecard",
+  "version": "0.0.1",
+  "description": "A page to report out compliance with GSA's digital guidelines.",
+  "main": "example.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mvogelgesang",
+  "license": "ISC",
+  "dependencies": {
+    "uswds": "^2.11.1"
+  },
+  "engines": {
+    "node": "14.16.0",
+    "npm": "6.14.11"
+  }
+}

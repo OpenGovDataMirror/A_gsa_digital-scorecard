@@ -1,0 +1,9 @@
+---
+applications:
+  - name: alpha-scorecard
+    buildpacks:
+      - staticfile_buildpack
+      - https://github.com/cloudfoundry/nodejs-buildpack
+    path: ./
+
+  
